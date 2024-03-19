@@ -2,7 +2,9 @@
 
 <span style="color:red;font-weight:700;font-size:24px">The Base Model: a Technical Signaling Tool for Stock Selection 基础模型：技术指标选股工具</span>  
 
-# Investment Strategy Outlook 投资策略及模型规划
+# Investment Strategy Outlook 投资策略及模型规划  
+
+<span style="color:red;font-weight:700;font-size:32px">THIS IS A DEMO!</span>  
 
 ## Research Objectives 研究目标
 
