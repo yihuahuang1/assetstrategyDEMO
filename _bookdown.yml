@@ -4,7 +4,16 @@ language:
     chapter_name: "Chapter "
 rmd_files: [
   "index.Rmd",
-  "setup.Rmd",
-  "write.Rmd"]
+  "Quick-Table-of-Contents.Rmd",
+  "interactive1.Rmd",
+  "Multi-asset-Investment-Strategy.Rmd",
+  "Investment-Strategy-Outlook.Rmd",
+  "Base-Model-Construction.Rmd",
+  "Technical-Indicators-Construction.Rmd",
+  "Select-Effective-Technical-Indicators.Rmd",
+  "Base-Model-Performance.Rmd",
+  "Risk-Disclosure.Rmd",
+  "Appendix.Rmd"
+]
 delete_merged_file: true 
 output_dir: "docs"
